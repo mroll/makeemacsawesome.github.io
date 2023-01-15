@@ -6,7 +6,7 @@ layout: default
 
 This blog accompanies my [*Make Emacs
 Awesome*](https://makeemacsawesome.com/) book. Here you can find posts
-on the versatity of Emacs, showing how what many consider just a text
+on the versatility of Emacs, showing how what many consider just a text
 editor is actually a Swiss Army knife of computing productivity.
 
 ## Posts
