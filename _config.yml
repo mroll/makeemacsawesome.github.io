@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Make Emacs Awesome Blog
+logo: /assets/img/MakeEmacsAwesomeCover.png
+description: Learn how to harness the power of the most versatile coding tool on the planet.
+link: makeemacsawesome.com
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
